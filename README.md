@@ -1,4 +1,7 @@
 # starbucks-stock-analysis
+
+Demo video link: https://drive.google.com/file/d/1J1XZPurjmwOFk1N0J0m0f9FpofvYddEe/view?usp=sharing
+
 This repository provides an analysis of how political and social trends, including boycotts and the effects of the COVID-19 pandemic, have influenced Starbucks' market performance. By examining daily stock prices and trading volumes from October 2022 to May 2024, the analysis aims to answer two key research questions:
 
 ### Impact of Boycotts on Closing Stock Prices:
