@@ -21,4 +21,4 @@ Data Collection: Daily stock prices and trading volumes for Starbucks.
 
 Statistical Analysis: Hypothesis testing to determine the significance of observed differences.
 
-Results and Insights: Interpretation of findings to understand the impact of boycotts and social movements on Starbucks' market performance.
+Results and Insights: Interpretation of findings to understand the impact of boycotts and social movements on Starbucks' market performance. 
